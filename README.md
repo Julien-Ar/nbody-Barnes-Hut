@@ -2,9 +2,9 @@
 
 Dependencies : [*fmt*](https://github.com/fmtlib/fmt),  [*openmp*](https://www.openmp.org/)
 
-fmt : used to generate name for files containing generated initial conditions
+ - fmt : used to generate name for files containing generated initial conditions
 
-openmp : used to parallelize the force calculations once the quadtree is built, each iteration
+- openmp : used to parallelize the force calculations once the quadtree is built, each iteration
 
 
 The hardest part of any Nbody simulation is setting the inital conditions.
