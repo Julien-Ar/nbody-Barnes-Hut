@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/particle.cpp.o CMakeFiles/main.dir/vect2.cpp.o CMakeFiles/main.dir/quadtree.cpp.o -o ../main  -lfmt /usr/lib/gcc/x86_64-redhat-linux/12/libgomp.so /usr/lib64/libpthread.a 

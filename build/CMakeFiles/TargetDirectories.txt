@@ -1,5 +1,0 @@
-/home/julien/Bureau/gravity simulations/barnes_hut/build/CMakeFiles/edit_cache.dir
-/home/julien/Bureau/gravity simulations/barnes_hut/build/CMakeFiles/rebuild_cache.dir
-/home/julien/Bureau/gravity simulations/barnes_hut/build/src/CMakeFiles/main.dir
-/home/julien/Bureau/gravity simulations/barnes_hut/build/src/CMakeFiles/edit_cache.dir
-/home/julien/Bureau/gravity simulations/barnes_hut/build/src/CMakeFiles/rebuild_cache.dir
