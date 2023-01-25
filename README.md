@@ -1,4 +1,6 @@
 ## Nbody simulation using Barnes-hut algorithm and a pointer based quadtree
+
+Example of 15000 particles interacting (computed in a span of a few minutes) :
 ![15000 particles](https://github.com/Julien-Ar/nbody-Barnes-Hut/blob/main/plummer_15000.gif)
 
 
