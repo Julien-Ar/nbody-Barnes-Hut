@@ -1,5 +1,5 @@
 ## Nbody simulation using Barnes-hut algorithm and a pointer based quadtree
-![15000 particles](https://raw.githubusercontent.com/Julien-Ar/nbody-Barnes-Hut/plummer_15000.gif)
+![15000 particles](https://github.com/Julien-Ar/nbody-Barnes-Hut/blob/main/plummer_15000.gif)
 
 
 
